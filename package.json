@@ -1,0 +1,22 @@
+{
+  "name": "globant-big-o",
+  "version": "1.0.0",
+  "description": "test_num_1",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyelo/prep-globant-big-o.git"
+  },
+  "author": "Miguel Angel Dueñas Gacia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyelo/prep-globant-big-o/issues"
+  },
+  "homepage": "https://github.com/miyelo/prep-globant-big-o#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
